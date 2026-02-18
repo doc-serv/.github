@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-DocServ - Document Server
+DocServ - Employee Document Management System
 
 <!--
 
